@@ -10,3 +10,5 @@ more accessible and engaging.
 
 − A platform for instructors to showcase their expertise and connect with learners
 across the globe.
+
+https://studynotion-edtech-project.vercel.app/
